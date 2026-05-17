@@ -1,0 +1,2 @@
+words count:2 hello world
+words count:4 how are you all
